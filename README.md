@@ -69,4 +69,4 @@ This Hangman game is licensed under the MIT License - see the [LICENSE](LICENSE)
 - A big thank you to all contributors who have made this Hangman game possible.
 - Inspired by the classic game that brings joy and challenges our vocabulary!
 
-Feel free to customize this README with your Hangman game's actual details, add your own images and animations, and make it as fun and engaging as possible. Replace `"yourusername"` with your GitHub username and update any placeholder URLs accordingly. Enjoy coding and have fun playing Hangman! 🎮🪓
+Feel free to further customize the README with additional ASCII art, colorful text, and images to make it even more vibrant and engaging. Update the placeholders with your project's details and URLs as needed. Enjoy coding and have fun playing Hangman! 🎨🪓
