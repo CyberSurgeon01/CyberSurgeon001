@@ -1,7 +1,7 @@
 # CyberSurgeon001
-<!-- Hangman Game Banner -->
+<!-- Hangman Game Animated Banner -->
 <p align="center">
-  <img src="hangman-banner.png" alt="Hangman Game Logo" width="300">
+  <img src="hangman-logo.gif" alt="Hangman Game Logo" width="300">
 </p>
 
 <!-- Hangman Game Title -->
@@ -69,4 +69,5 @@ This Hangman game is licensed under the MIT License - see the [LICENSE](LICENSE)
 - A big thank you to all contributors who have made this Hangman game possible.
 - Inspired by the classic game that brings joy and challenges our vocabulary!
 
-Feel free to further customize the README with additional ASCII art, colorful text, and images to make it even more vibrant and engaging. Update the placeholders with your project's details and URLs as needed. Enjoy coding and have fun playing Hangman! 🎨🪓
+Feel free to create your own animated ASCII art banners or use existing ones to make your README more vibrant and eye-catching. Update the placeholders with your project's actual details and URLs as needed. Enjoy coding and have fun playing Hangman! 🎨🪓
+
